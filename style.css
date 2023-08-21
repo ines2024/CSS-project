@@ -1,0 +1,43 @@
+#header {
+    display: flex;
+    font-family: 'Roboto';
+    font-size: 1.5rem;
+    margin: 10px;
+     }
+
+.navbar-nav {
+    display: inline;
+    gap: 200px;
+
+}
+
+
+.nav-item .nav-link {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+.hdr {
+    font-family: 'Roboto';
+
+}
+.About {
+    font-family: 'Roboto';
+}
+.Work {
+    font-family: 'Roboto';
+}
+
+.Resume {
+    font-family: 'Roboto';
+}
+.Contact {
+    font-family: 'Roboto';
+
+}
+
+
+
+
+
